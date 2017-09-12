@@ -1,0 +1,9 @@
+Requirements:
+=============
+
+1. User should have account in https://developers.facebook.com/ and need to create a App to get APP_ID and APP_SECRET_ID which will be used to create token_id automatically.
+
+2.We can use GRAPH API tool provided by Faceboook to experience the process manually.
+
+3.I didn't concentrate much on the validation parts.My ultimate aim was just to explore the format in which the data is stored in facebook and to make some data out of it..
+
